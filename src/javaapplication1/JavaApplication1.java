@@ -16,7 +16,8 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo uwu");
-        System.out.println("Soy estudiante ");
+        System.out.println("Soy estudiante");
+        System.out.println("De la universidad de las fuerzas armadas en Ecuador");
     }
     
 }
